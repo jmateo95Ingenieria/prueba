@@ -1,0 +1,4 @@
+npm init -y
+npm i express morgan mysql cors
+npm install --save mysql2
+npm i nodemon -D
